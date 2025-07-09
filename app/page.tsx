@@ -215,8 +215,8 @@ export default function HomePage() {
               <CardContent className="p-6">
                 <h3 className="text-xl font-bold text-[#847C69] mb-2">Piano</h3>
                 <p className="text-[#676358] mb-4 text-sm">
-                  Belajar dasar chord dan tingkatkan kemampuan kamu dalam
-                  bermain gitar!
+                  Pelajari teknik dasar hingga mahir bermain piano dengan metode
+                  yang menyenangkan.
                 </p>
 
                 <p className="text-xs font-semibold text-black/70 mb-1">
@@ -250,8 +250,8 @@ export default function HomePage() {
               <CardContent className="p-6">
                 <h3 className="text-xl font-bold text-[#847C69] mb-2">Gitar</h3>
                 <p className="text-[#676358] mb-4 text-sm">
-                  Pelajari teknik dasar hingga mahir bermain piano dengan metode
-                  yang menyenangkan.
+                   Belajar dasar chord dan tingkatkan kemampuan kamu dalam
+                  bermain gitar!
                 </p>
 
                 <p className="text-xs font-semibold text-black/70 mb-1">
@@ -631,7 +631,7 @@ export default function HomePage() {
           <div className="flex flex-wrap justify-evenly">
             <div>
               <h3 className="text-xl font-bold mb-4">
-                1. Wonokromo Gubeng, Jl. Riau No. 110, Kota Surabaya
+                1. Wonokromo Gubeng, Jl. Nias No. 110, Kota Surabaya
               </h3>
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.689419506348!2d112.7475759747606!3d-7.2761370927309645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fbdc4e2819cb%3A0x6cb0d1c5c837c110!2sViaduct%20By%20Gubeng!5e0!3m2!1sid!2sid!4v1750319579247!5m2!1sid!2sid"
